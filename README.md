@@ -1,3 +1,5 @@
+#MUST READ - SAMPLE CODE TO DO ES WITH SQL
+
 # Lessons learned building a cloud-native architecture in .NET
 
 This repository contains samples (.NET / C#) that I use in my presentation *Lessons learned implementing CQRS, DDD and Event Sourcing in .NET*.
